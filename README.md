@@ -73,9 +73,9 @@ To ensure accurate and stable forecasting, the dataset undergoes multiple cleani
 ### Example Output (Summarized):
 | Service | Trend | Avg | Median | Peak | Wkday/Weekend Ratio | Best Day | Worst Day |
 |----------|--------|------|--------|------|----------------------|-----------|------------|
-| Local Route | 📈 Increasing | 9891 | 11417 | 21070 | 4.67 | Sunday | Wednesday |
-| Light Rail | 📈 Increasing | 7195 | 7507 | 15154 | 1.95 | Sunday | Wednesday |
-| School | 📈 Increasing | 2353 | 568 | 7255 | N/A | Weekdays | Weekends |
+| Local Route |  Increasing | 9891 | 11417 | 21070 | 4.67 | Sunday | Wednesday |
+| Light Rail |  Increasing | 7195 | 7507 | 15154 | 1.95 | Sunday | Wednesday |
+| School |  Increasing | 2353 | 568 | 7255 | N/A | Weekdays | Weekends |
 
 ---
 
